@@ -1,0 +1,3 @@
+trait AIRServeModule {
+  def runTask(sc: SparkContext):
+}
